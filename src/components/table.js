@@ -20,14 +20,14 @@ class DataTable extends Component {
                                                 <div className="row">
                                                     <div className="col">
                                                         <div className="row">
-                                                            <div className="col"><img src={item.user_profile_image_url} alt="twitter"></img></div>
+                                                            <div className="col-6"><img src={item.user_profile_image_url} alt="twitter"></img></div>
                                                             <div className="col twitter-screen_name_color"><b>@{item.user_screen_name}</b></div>
                                                         </div>
                                                     </div>
                                                 </div>
                                                 <div className="row">
                                                     <div className="col twitter-text">
-                                                        {item.text}
+                                                        {item.twitter_text}
                                                     </div>
                                                 </div>
                                             </Media>
