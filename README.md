@@ -1,4 +1,3 @@
-# [Twitter APP]
 # Twitter Component
 
 ## Installation
