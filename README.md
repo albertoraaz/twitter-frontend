@@ -10,7 +10,7 @@ React Express MySQL Node
 
 Run `npm install` in root directory for a dev server. 
 
-Run `yarn start` The app will automatically reload if you change any of the source files.
+Run `yarn start` to start the project.
 
 # Author
 
